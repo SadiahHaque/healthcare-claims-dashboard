@@ -10,6 +10,7 @@ This project involves cleaning and analyzing healthcare claims data to create an
 
 ## Tools and Technologies
 - **SQL**: For data cleaning and analysing trends.
+- **Excel**: For basic QA analysis.
 - **Power BI**: For creating interactive dashboards and visualizations.
 - **DAX**: For measure creation.
 
@@ -26,6 +27,7 @@ This project involves cleaning and analyzing healthcare claims data to create an
 
 ## Files in This Repository:
 - **Data**: Cleaned dataset (`healthcare_claims_clean.csv`)
+            Excel analysis (`healthcare_claim_analysis_dashboard`)
             Raw dataset (`healthcare_claim_raw_data.csv`).
 - **SQL**: SQL script for cleaning data (`data_cleaning_script.sql`).
 - **Power-BI**: Power BI project file for the dashboard (`healthcare_claims_dashboard.pbix`).
